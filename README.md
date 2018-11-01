@@ -13,3 +13,6 @@ This is for testing Git and pushing to GitHub
 -create new dir "git" on C drive: mkdir git
 -cd git/
 -back to browser to clone repository by clocking the green clone button and highlighting, and link to repository, (or simply highlighting link if green button not available).
+
+
+https://help.github.com/
